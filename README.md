@@ -5,13 +5,17 @@
 </a>
 </div>
 
-<h3>Wanna get in touch or talk about a project?</h3>
+![Profile views](https://komarev.com/ghpvc/?username=MariaEvdokimova&label=Profile%20views&color=5575ff&style=flat)
+
+## 💬 Wanna get in touch or talk about a project?
+<div class="badges-githubstats">
 <p>Feel free to contact me via email at <a href="mailto:maevdokimova@gmail.com">maevdokimova@gmail.com</a></p>
 <p>or follow me <a href="https://www.linkedin.com/in/mariiaevdokimova/" target="_blank"  rel=" noopener noreferrer" style="{color: #900}:hover {color: red}">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedIn Mariia Evdokimova" height="30" width="40" />
 </a></p>
+</div>
 
-<h3>Languages and Tools:</h3>
+## 🛠 Languages and Tools
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
