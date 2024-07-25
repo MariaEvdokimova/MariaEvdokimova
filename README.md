@@ -7,7 +7,9 @@
 
 <h3>Wanna get in touch or talk about a project?</h3>
 <p>Feel free to contact me via email at <a href="mailto:maevdokimova@gmail.com">maevdokimova@gmail.com</a></p>
-<p>or follow me <a href="https://www.linkedin.com/in/mariiaevdokimova/" target="_blank"  rel=" noopener noreferrer" style="{color: #900}:hover {color: red}">LinkedIn</a></p>
+<p>or follow me <a href="https://www.linkedin.com/in/mariiaevdokimova/" target="_blank"  rel=" noopener noreferrer" style="{color: #900}:hover {color: red}">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedIn Mariia Evdokimova" height="30" width="40" />
+</a></p>
 
 <h3>Languages and Tools:</h3>
 
