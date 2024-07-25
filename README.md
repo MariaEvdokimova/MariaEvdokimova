@@ -5,7 +5,12 @@
 </a>
 </div>
 
-![Profile views](https://komarev.com/ghpvc/?username=MariaEvdokimova&label=Profile%20views&color=5575ff&style=flat)
+## 👨‍💻 Whoami
+<p align="center">
+  Hi there! I'm a web developer who truly loves what I do. Crafting websites that users enjoy is my mission. I'm always happy to help others and share my experience. Let's build something amazing together!
+  <br> <br>
+   <img src="https://komarev.com/ghpvc/?username=MariaEvdokimova" alt="https://github.com/MariaEvdokimova" />
+</p>
 
 ## 💬 Wanna get in touch or talk about a project?
 <div class="badges-githubstats">
