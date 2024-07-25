@@ -29,7 +29,6 @@
 ![Webpack](https://img.shields.io/badge/-Webpack-000000?style=flat&logo=webpack&logoColor=#FFCA28)
 ![Jest](https://img.shields.io/badge/-Jest-000000?style=flat&logo=jest&logoColor=#FFCA28)
 ![NPM](https://img.shields.io/badge/-NPM-000000?style=flat&logo=npm&logoColor=#FFCA28)
-![Yarn](https://img.shields.io/badge/-Yarn-000000?style=flat&logo=yarn&logoColor=#FFCA28)
 
 
 
