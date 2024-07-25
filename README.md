@@ -1,5 +1,8 @@
 <h1 align="center">Hey 👋, I'm Mariia Evdokimova</h1>
-<div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1500&color=5575FF&width=435&lines=Frontend+Web+Developer" alt="Typing SVG" /></a></div>
+<div align="center"><a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1500&color=5575FF&width=400&lines=Frontend+Web+Developer" alt="Typing SVG" />
+</a>
+</div>
 
 <h3>Wanna get in touch or talk about a project?</h3>
 <p>Feel free to contact me via email at <a href="mailto:maevdokimova@gmail.com">maevdokimova@gmail.com</a></p>
