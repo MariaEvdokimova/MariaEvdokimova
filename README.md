@@ -1,6 +1,7 @@
-<h1 align="center">Hey 👋, I'm Mariia Evdokimova</h1>
+![header](https://capsule-render.vercel.app/api?type=waving&height=256&color=gradient&customColorList=30,2,2,5,30&text=Hello%20World!&reversal=false&textBg=false&fontColor=fff&fontSize=80&fontAlign=48&fontAlignY=30&animation=fadeIn&desc=%20I'm%20Mariia%20Evdokimova&descSize=30&descAlign=60&descAlignY=48)
+
 <div align="center"><a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1500&color=5575FF&width=400&lines=Frontend+Web+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1500&color=5575FF&width=400&lines=Frontend+Developer" alt="Typing SVG" />
 </a>
 </div>
 
@@ -32,6 +33,10 @@
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+![line](https://capsule-render.vercel.app/api?type=rect&color=lightgrey&height=1)
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaEvdokimova&layout=compact"  alt="MariaEvdokimova" /></p>
 
 <!--
 **MariaEvdokimova/MariaEvdokimova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
