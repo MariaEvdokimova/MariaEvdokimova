@@ -1,5 +1,9 @@
-## Hi there 👋
+<h1 align="center">Hey 👋, I'm Mariia Evdokimova</h1>
+<h3 align="center">Frontend Developer</h3>
 
+<h3>Wanna get in touch or talk about a project?</h3>
+<p>Feel free to contact me via email at <a href="mailto:maevdokimova@gmail.com">maevdokimova@gmail.com</a></p>
+<p>or follow me <a href="https://www.linkedin.com/in/mariiaevdokimova/" target="_blank"  rel=" noopener noreferrer" style="{color: #900}:hover {color: red}">LinkedIn</a></p>
 <!--
 **MariaEvdokimova/MariaEvdokimova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
