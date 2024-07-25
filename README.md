@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=256&color=gradient&customColorList=30,2,2,5,30&text=Hello%20World!&reversal=false&textBg=false&fontColor=fff&fontSize=80&fontAlign=48&fontAlignY=30&animation=fadeIn&desc=%20I'm%20Mariia%20Evdokimova&descSize=30&descAlign=60&descAlignY=48)
+![header](https://capsule-render.vercel.app/api?type=waving&height=245&color=gradient&customColorList=30,2,2,5,30&text=Hello%20World!&reversal=false&textBg=false&fontColor=fff&fontSize=80&fontAlign=48&fontAlignY=30&animation=fadeIn&desc=%20I'm%20Mariia%20Evdokimova&descSize=30&descAlign=60&descAlignY=48)
 
 <div align="center"><a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1500&color=5575FF&width=400&lines=Frontend+Developer" alt="Typing SVG" />
@@ -18,6 +18,7 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
