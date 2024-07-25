@@ -11,6 +11,7 @@
   <br> <br>
    <img src="https://komarev.com/ghpvc/?username=MariaEvdokimova" alt="https://github.com/MariaEvdokimova" />
 </p>
+<br> 
 
 ## 💬 Wanna get in touch or talk about a project?
 <div class="badges-githubstats">
@@ -19,6 +20,7 @@
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedIn Mariia Evdokimova" height="30" width="40" />
 </a></p>
 </div>
+<br> 
 
 ## 🛠 Languages and Tools
 
@@ -35,7 +37,7 @@
 ![Jest](https://img.shields.io/badge/-Jest-000000?style=flat&logo=jest&logoColor=#FFCA28)
 ![NPM](https://img.shields.io/badge/-NPM-000000?style=flat&logo=npm&logoColor=#FFCA28)
 
-
+<br>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaEvdokimova&layout=compact"  alt="MariaEvdokimova" /></p>
 
